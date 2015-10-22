@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: 3cbd0ea65cae8e54f946c9975cf4960c
+timeCreated: 1433548638
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bumatlasnew_0
+    21300002: bumatlasnew_1
+    21300004: bumatlasnew_2
+    21300006: bumatlasnew_3
+    21300008: bumatlasnew_4
+    21300010: bumatlasnew_5
+    21300012: bumatlasnew_6
+    21300014: bumatlasnew_7
+    21300016: bumatlasnew_8
+    21300018: bumatlasnew_9
+    21300020: bumatlasnew_10
+    21300022: bumatlasnew_11
+    21300024: bumatlasnew_12
+    21300026: bumatlasnew_13
+    21300028: bumatlasnew_14
+    21300030: bumatlasnew_15
+    21300032: bumatlasnew_16
+    21300034: bumatlasnew_17
+    21300036: bumatlasnew_18
+    21300038: bumatlasnew_19
+    21300040: bumatlasnew_20
+    21300042: bumatlasnew_21
+    21300044: bumatlasnew_22
+    21300046: bumatlasnew_23
+    21300048: bumatlasnew_24
+    21300050: bumatlasnew_25
+    21300052: bumatlasnew_26
+    21300054: bumatlasnew_27
+    21300056: bumatlasnew_28
+    21300058: bumatlasnew_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bumatlasnew_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 646
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 646
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 646
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 646
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 646
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 646
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 518
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 518
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 518
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 518
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 518
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_11
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 518
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_17
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 390
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 262
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_19
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 262
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 262
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 262
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 262
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_23
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 262
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 134
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_26
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 134
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 134
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_28
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 134
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bumatlasnew_29
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 134
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
